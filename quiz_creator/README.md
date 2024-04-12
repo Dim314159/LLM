@@ -12,3 +12,5 @@ if __name__ == "__main__":
 
 in terminal:
 streamlit run .\quiz.py
+you will get this
+![First Page](quiz_first_page.png)
