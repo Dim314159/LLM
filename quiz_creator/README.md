@@ -45,4 +45,4 @@ Chose file(s) to upload, type topic of your quiz, chose number of questions. Cli
 
 Generator will create questions of you topic based of pdf(s) you provided
 
-![Question](question.png)
+![Question](question_screenshot.png)
