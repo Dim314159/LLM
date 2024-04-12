@@ -40,3 +40,9 @@ streamlit run .\quiz.py
 
 ## Interface
 ![First Page](quiz_first_page.png)
+
+Chose file(s) to upload, type topic of your quiz, chose number of questions. Click sumbit.
+
+Generator will create questions of you topic based of pdf(s) you provided
+
+![Question](question.png)
