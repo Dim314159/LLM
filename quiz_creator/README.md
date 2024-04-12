@@ -37,5 +37,5 @@ Execute the following command in the terminal:
 ```bash
 streamlit run .\quiz.py
 
-you will get this
+## Interface
 ![First Page](quiz_first_page.png)
